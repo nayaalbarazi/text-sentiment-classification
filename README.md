@@ -1,5 +1,5 @@
 # text-sentiment-classification
-Classifying negative and positive comments using ML
+Classifying positive and negative comments using ML
 
 ## Dataset
 `IMDB Dataset.csv` from Kaggle
@@ -9,18 +9,19 @@ Classifying negative and positive comments using ML
 - Jupyter Notebook
 - Pandas & Numpy
 - Matplotlib & Seaborn
-- Scikit-learn
-- NLTK /spaCy
+- Scikit-learn (accuracy_score, confusion_matrix, classification_report, ConfusionMatrixDisplay, RfidVectorizer, svc)
+- nltk (stopwords)
+- wordcloud
 
 ## Workflow
 - Text cleaning
-- Tokenization and Lemmatization
+- Wordcloud generation
 - Text vectorization
 - Model training and evaluation
+- Results visualization
 
 ## Results
-- Best model accuracy: 87%
-- Confusion Matrix and Classification Report included in notebook
+- Best model accuracy: 89%
 
 ## Contact
 Email: nayalbarazi14@gmail.com
