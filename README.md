@@ -1,4 +1,4 @@
-# text-sentiment-classification
+# comment-sentiment-analysis
 Classifying positive and negative comments using ML
 
 ## Dataset
