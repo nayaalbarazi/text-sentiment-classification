@@ -21,7 +21,7 @@ Classifying positive and negative comments using ML
 - Results visualization
 
 ## Results
-- Best model accuracy: 89%
+- Best model accuracy: 85%
 
 ## Contact
 Email: nayalbarazi14@gmail.com
